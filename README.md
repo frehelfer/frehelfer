@@ -1,11 +1,19 @@
 ## Hi there 👋
 
+I'm Frédéric, an iOS developer from the south of Brazil. I'm passionate about building technology that benefits people and the planet.
+
+### 👨‍💻  I’m currently working on ...
+
+- [🍔  aiqfome](https://aiqfome.com) ([📱 iOS App ](https://apps.apple.com/br/app/aiqfome-delivery-de-tudo/id891143703?l=en-GB)) 1st delivery app in Brazil, the biggest in the interior and the best for your city
+- [💸  calcMEI](https://calcmei.com.br) ([📱 iOS App ](https://apps.apple.com/br/app/calcmei/id6448071924?l=en-GB)) 
+Find out if you need to declare your Personal Income Tax
+
+
+### ⌛️  Past projects...
+- [🌎  The Climate App](https://www.theclimateapp.earth) ([📱 iOS App ](https://apps.apple.com/gb/app/the-climate-app/id1609873329)) 
+- [🌳  Greenstand](https://www.greenstand.org) ([📱 iOS Project ](https://github.com/Greenstand/treetracker-ios)) Addressing Poverty and Climate Change Through Technology
+
 <!--
-**frehelfer/frehelfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
